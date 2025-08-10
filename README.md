@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📊 Excel Analytics Platform - MERN Stack
 
 A comprehensive full-stack web application for uploading Excel files, analyzing data, and creating interactive visualizations with advanced chart customization capabilities. Built with the MERN stack (MongoDB, Express.js, React, Node.js) featuring secure authentication, role-based access control, and powerful data export functionality.
